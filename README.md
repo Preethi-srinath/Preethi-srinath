@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm a student at Dayananda Sagar University, currently in my 4th year, pursuing a degree in Computer Science and Engineering. i have knowledge in Java, HTML, CSS, JavaScript, and Amazon Web Services,
+I'm a student at Dayananda Sagar University, software Engineer!!
 
 
 ## 🌐 Socials:
